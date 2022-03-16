@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, TreeCore 👋
+
+TreeCore contains a bundle of tools which aims to improve development experience of processor design. Now it mainly focus on processor frontend and system software field. We hope it can integrate multiple components to build a common workflow for agile hardware development from frontend to backend one day.
+
+## Help us to improve the project
+You can issue bugs, pull requests, new features and modification suggestions freely. Your feedbacks could help us ensure a bright future for this project. We value and treasure every issue or contribution, big or small. 😄
 
 <!--
 
